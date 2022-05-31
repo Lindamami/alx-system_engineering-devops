@@ -1,2 +1,2 @@
 Alias
-1. assigning variables 
+1. echo hello $user 
