@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -la | tr -d ".js"
+ls -la | tr -d '.js'
